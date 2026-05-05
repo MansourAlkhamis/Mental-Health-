@@ -28,5 +28,3 @@ Power BI, Excel, DAX measures, calculated columns
 ## Data Source
 Teen Mental Health Dataset — 1,200 records, ages 13–19
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
